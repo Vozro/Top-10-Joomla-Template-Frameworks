@@ -1,4 +1,5 @@
 # Top 10 Joomla Template Frameworks For Developers
+[![Joomla](https://docs.joomla.org/images/2/2d/Joomla-3D-logo-en.png)](https://joomla.ge)
 the Joomla template frameworks are base skeleton outlines that consist of fresh and blank HTML codes with no gradients, colors, and borders, but only margins, dimensions, and menu system styling.
 
 
